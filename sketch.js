@@ -4,7 +4,7 @@ var astronautlist =[];
 
 
 function preload() {
-	myData = loadJSON('assets/peopleinspace.json');
+	myData = loadJSON('assets/peopleInSpace.json');
 }
 
 function setup() {
